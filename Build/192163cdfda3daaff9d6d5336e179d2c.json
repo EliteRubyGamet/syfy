@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Visual novel",
+"dataUrl": "4e5f42b5062a40ee11298635fcecb674.unityweb",
+"wasmCodeUrl": "4d367404dd18e32422676ea67cdaa6a2.unityweb",
+"wasmFrameworkUrl": "0ce530769c78e758f3906a6ed3d40556.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
